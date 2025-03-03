@@ -1,6 +1,9 @@
 # SimpleraSync-Reverse-Engineering
 ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
 
+> [!CAUTION]
+> This repository is for educational purposes only.
+> No modified medical device may be used for making medical decisions.
 
 Reverse Engineering the Simplera Sync rtCGM Sensor
 
