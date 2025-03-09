@@ -37,6 +37,9 @@ Connected in series
 ![IMG_20250307_191708](https://github.com/user-attachments/assets/951ad68e-d13c-4826-a19a-57467259d3a0)
 ![IMG_20250307_191656](https://github.com/user-attachments/assets/9ffe03bc-983d-4421-9233-02454c609773)
 
-And an unknown bare die chip with no markings. (right side in the above photo)
+And an unknown bare die chip with no markings. (right side in the above photo)}
+
+FCC: 
+https://fcc.report/FCC-ID/OH2BLEGST2/
 
 Licensed under the MIT License. See LICENSE file for details.
